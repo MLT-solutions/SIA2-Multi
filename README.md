@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <img src="https://github.com/user-attachments/assets/de79370d-078c-4448-a996-9624d107cd3b" alt="My Image" width="150"/>
 </p>
@@ -25,26 +24,6 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 
 
 ![Screenshot 2025-04-24 213614](https://github.com/user-attachments/assets/ac3f04aa-12af-4ea7-885f-407739184dfc)
-=======
-# ![Matt Stock Automation-white small](https://github.com/user-attachments/assets/d93b4a58-50cf-4bbd-a603-c0a40f2406e9) MLT Stock Idea Assistant
-# Introduction
-![Screenshot 2025-04-22 074719](https://github.com/user-attachments/assets/1775b062-93e0-449d-ba37-293ae43e8c8f)
-![Screenshot 2025-04-21 222430](https://github.com/user-attachments/assets/9d89146e-ed67-4e25-8447-195ea31f2529)
-
-## “Your private AI-powered visual assistant that goes from spark to stock-ready.”
-Designers, marketers, and solopreneurs — this is your fast lane from idea to income.
-
-## Quick links:
-- [🏠 Home](README.md)
-- [🎯 Use Cases](docs/case.md)
-- [👀 Sample Outcome](sample/sample.md)
-- [📚 Documentation & Usage Guide](docs/Documentation.md)
-- [🛠 Installation](docs/INSTALLATION_GUIDE.md)
-
-
----
-![Screenshot 2025-04-22 080434](https://github.com/user-attachments/assets/cb1e244d-271b-4a3c-a8ec-b9bd6bbf7fc1)
->>>>>>> 604137079a82d8d891330bf812e6c1319e1f3ab5
 
 ## Why This Tool Was Built
 Modern creators juggle speed, quality, and originality. We built this app to **automate the repetitive, spark fresh ideas, and generate consistent visual assets** using the latest in AI.
@@ -63,12 +42,9 @@ Modern creators juggle speed, quality, and originality. We built this app to **a
 - Visual Storytellers
 
 ---
-<<<<<<< HEAD
 ![ChatGPT Image Apr 25, 2025, 10_12_21 PM](https://github.com/user-attachments/assets/ac563a47-31fb-41bb-85c8-f7815bc40a99)
 
 ![Screenshot 2025-04-22 132058](https://github.com/user-attachments/assets/e0e08828-b49c-4e76-b2c6-141423e59679)
-=======
->>>>>>> 604137079a82d8d891330bf812e6c1319e1f3ab5
 
 # ✨ Design Philosophy
 
@@ -103,11 +79,7 @@ Whether you’re crafting stock visuals, building a theme pack, or just experime
 | Features                                 | Free Mode         | PRO (Personal)     | PRO (Business)        |
 |-----------------------------------------|-------------------|--------------------|------------------------|
 | One-Time Cost                            | USD 0             | USD 29.99          | USD 59.99              |
-<<<<<<< HEAD
 | Commercial Use                         | ❌ Not allowed   | 🔶 Allowed for personal non-commercial projects | ✅ Allowed for clients, sales, business |
-=======
-| Commercial Use                         | ❌ Not allowed   | ✅ Yes (for self-use) | ✅ Yes (for clients & business use) |
->>>>>>> 604137079a82d8d891330bf812e6c1319e1f3ab5
 | Use on Multiple Devices                | 1 device only    | Up to 2 devices       | Up to 3 devices         |
 | Max Prompts/ Images per Batch            | 3                 | Unlimited          | Unlimited              |
 | Enter "Prompt Theme" Auto Generate Prompts | ✅                | ✅                  | ✅                     |
@@ -125,7 +97,6 @@ Whether you’re crafting stock visuals, building a theme pack, or just experime
 | Resolution Selection                     | ✅                | ✅                  | ✅                     |
 | CFG Scale                                | ✅                | ✅                  | ✅                     |
 | Flexible Folder Mapping                  | ✅                | ✅                  | ✅                     |
-<<<<<<< HEAD
 | **Purchase**                 |  🆓 [📥Download](https://github.com/MLT-solutions/MLT-stock-idea-assistant/releases/tag/1.0.0)           |    [🛒 Purchase](https://mltsolutions.gumroad.com/l/qwwvb)              |    [🛒 Purchase](https://mltsolutions.gumroad.com/l/itiph)                  |
 
 ✅ All EXE builds are digitally signed with a verified code-signing certificate to ensure authenticity and prevent tampering.
@@ -144,14 +115,6 @@ Whether you’re crafting stock visuals, building a theme pack, or just experime
 | + With Ollama (Mistral)     | 17 – 20+ GB             |
 | + With Large Ollama models  | 22 – 30+ GB             |
 
-=======
-
-
-## Requirements:
-- Windows 11 with GPU (Ideally 8GB VRAM and above)
-- Ollama
-- ComfyUI installed via CLI
->>>>>>> 604137079a82d8d891330bf812e6c1319e1f3ab5
 
 
 ### ✅ What am I Providing
@@ -172,11 +135,8 @@ A: SDXL via ComfyUI + optional Ollama LLM locally + WAS nodes
 - Not optimized for mobile workflows (desktop only)
 - Even though negative prompts build-in in App, you may still still malform hands
 
-<<<<<<< HEAD
 ---
 
-=======
->>>>>>> 604137079a82d8d891330bf812e6c1319e1f3ab5
 ## ☕ Buy Me a Coffee
 [PayPal Coffee Support Link](https://www.buymeacoffee.com/mattchoo2)
 
@@ -192,7 +152,6 @@ A: SDXL via ComfyUI + optional Ollama LLM locally + WAS nodes
 - Includes  no prompt limit.
 - For clients & business use.
 - Up to 3 devices  
-<<<<<<< HEAD
 
 ## License
 
@@ -201,8 +160,6 @@ Commercial use requires a [Business License](docs/LICENSE_BUSINESS.txt).
 
 🔒 See [Personal License](docs/LICENSE_PERSONAL.txt) for full terms.
 
-=======
->>>>>>> 604137079a82d8d891330bf812e6c1319e1f3ab5
   
 ### 🛡 Disclaimer:
 > *MLT Stock Image Assistant is an independent tool that assists with AI-based image generation automation. This software does not include or distribute any AI model weights (e.g., Mistral, SDXL), and it assumes the user has properly licensed or downloaded those models independently from their official sources. This tool is not affiliated with Ollama, StabilityAI, Adobe or Dreamstime.*
