@@ -1,18 +1,32 @@
-# ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Idea Assistant
-# Sample Outcome
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de79370d-078c-4448-a996-9624d107cd3b" alt="My Image" width="150"/>
+</p>
 
-## “Your private AI-powered visual assistant that goes from spark to stock-ready.”
+
+
+
+# SIA - Stock Idea Assistant
+### Powered by Modern Logic Tech (MLT™)
+
+
+
+***“Your private AI-powered visual assistant that goes from spark to stock-ready.”***
+
 Designers, marketers, and solopreneurs — this is your fast lane from idea to income.
+
+
 
 # Quick links:
 - [🏠 Home](../README.md)
 - [🎯 Use Cases](../docs/case.md)
-- [👀 Sample Outcome](sample.md)
+- [✨ Real Results](sample.md)
 - [📚 Documentation & Usage Guide](../docs/Documentation.md)
 - [🛠 Installation](../docs/INSTALLATION_GUIDE.md)
+- [🛡️ Privacy Policy](../docs/PrivacyPolicy.md)
 
 
 ---
+# Sample Outcome
 
 ## Set 1 - Stock Image Creation Samples (can save image to check metadata)
 [csv metadata](Set1/metadata.csv)
@@ -26,6 +40,7 @@ Designers, marketers, and solopreneurs — this is your fast lane from idea to i
 ![Image 9](Set1/mjpg_00009_.jpg)
 ![Image 10](Set1/mjpg_00010_.jpg)
 
+---
 
 ## Set 2 - Sample Images from Ideation Use Cases
 ![Image 12](Set2/mjpg_00001_.jpg)

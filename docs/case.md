@@ -1,24 +1,39 @@
-# ![Screenshot 2025-04-21 102643](https://github.com/user-attachments/assets/f322d9cc-1adf-45d4-a38d-4764f62cf7bd) MLT Stock Idea Assistant
-# Use Cases
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/de79370d-078c-4448-a996-9624d107cd3b" alt="My Image" width="150"/>
+</p>
 
-![Screenshot 2025-04-21 222430](https://github.com/user-attachments/assets/28f6c8d8-3c5b-4cf8-96ff-ab57d851bc57)
 
-## “Your private AI-powered visual assistant that goes from spark to stock-ready.”
+# SIA - Stock Idea Assistant
+### Powered by Modern Logic Tech (MLT™)
+
+***“Your private AI-powered visual assistant that goes from spark to stock-ready.”***
+
 Designers, marketers, and solopreneurs — this is your fast lane from idea to income.
 
 ## Quick links:
 - [🏠 Home](../README.md)
 - [🎯 Use Cases](case.md)
-- [👀 Sample Outcome](../sample/sample.md)
+- [✨ Real Results](../sample/sample.md)
 - [📚 Documentation & Usage Guide](Documentation.md)
 - [🛠 Installation](INSTALLATION_GUIDE.md)
-
-
+- [🛡️ Privacy Policy](PrivacyPolicy.md)
+  
 ---
+# Use Cases
+---
+![ChatGPT Image Apr 24, 2025, 09_10_16 PM](https://github.com/user-attachments/assets/bd03c92f-4b96-47e0-989f-933e5dfea4a2)
+---
+![Screenshot 2025-04-24 212421](https://github.com/user-attachments/assets/e168aa5d-9337-496f-ab15-3981561b7522)
+---
+![Screenshot 2025-04-24 212431](https://github.com/user-attachments/assets/1f67b5cc-ad59-4cf8-9f56-2d18a958aab5)
+---
+![Screenshot 2025-04-24 212438](https://github.com/user-attachments/assets/1911039b-2e21-462f-ae52-d3747432e286)
+---
+![Screenshot 2025-04-24 212445](https://github.com/user-attachments/assets/ee9da922-014f-4d6f-a148-62855f0f720c)
+---
+![Screenshot 2025-04-24 212452](https://github.com/user-attachments/assets/3055259f-89a4-44af-9d4d-6acbce9475ea)
+---
+![Screenshot 2025-04-24 212511](https://github.com/user-attachments/assets/3ce73e42-ef4c-4529-973a-69486c568c44)
 
-![Screenshot 2025-04-21 220401](https://github.com/user-attachments/assets/6f63f08c-1782-4ab3-a2ff-940be80217fb)
-![Screenshot 2025-04-21 220408](https://github.com/user-attachments/assets/49aed1f3-8189-4194-afd4-900839c0e01f)
-![Screenshot 2025-04-21 220416](https://github.com/user-attachments/assets/905f800f-06b9-47cd-80d8-6a7fcaf54d29)
-![Screenshot 2025-04-21 220423](https://github.com/user-attachments/assets/f1d2bec6-4630-4c9a-b764-d854c3a06cad)
-![Screenshot 2025-04-21 220431](https://github.com/user-attachments/assets/6e78c7c1-2f16-4169-8749-21f67093653f)
-![Screenshot 2025-04-21 220438](https://github.com/user-attachments/assets/3967de6e-1a30-478f-9ddf-25d9e87fb644)
+
+
