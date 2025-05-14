@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/de79370d-078c-4448-a996-9624d107cd3b" alt="My Image" width="150"/>
+  <img src="https://github.com/user-attachments/assets/1ac831ca-ab55-47ff-ba33-ecc55df7ffbc" alt="My Image" width="150"/>
 </p>
 
 
-
-
-# SIA - Stock Idea Assistant
+# SIA2 - Multi Stock Idea Assistant
 ### Powered by Modern Logic Tech (MLT™)
 
 
