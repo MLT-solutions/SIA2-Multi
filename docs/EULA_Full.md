@@ -1,7 +1,7 @@
 === End User License Agreement (EULA) ===  
-MLT Stock Idea Assistant  
-Version 1.0.0  
-Copyright © 2025 Modern Logic Tech (MLT™)
+MLT Stock Idea Assistant - Multi 
+Version 2.0.0  
+© 2025 Modern Logic Tech Solutions (Registration No: 202503109774 (003722143-P))
 
 IMPORTANT — PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING THIS SOFTWARE.
 
@@ -41,6 +41,7 @@ You may not:
 
 == 3. Third-Party Tools and Responsibility ==
 
+The Software is owned and copyrighted by Modern Logic Tech Solutions (Registration No: 202503109774 (003722143-P)).
 This Software integrates with third-party tools, including but not limited to:
 - ComfyUI
 - Ollama
@@ -65,7 +66,7 @@ Use of the Software is at your sole risk.
 
 == 5. Limitation of Liability ==
 
-To the maximum extent permitted by law, Modern Logic Tech (MLT™) shall not be liable for:
+To the maximum extent permitted by law, Modern Logic Tech Solutions shall not be liable for:
 - Any incidental, indirect, special, or consequential damages
 - Loss of business, revenue, profits, or data
 - Any claims arising out of your use of generated content or third-party integrations
@@ -86,7 +87,7 @@ Use at your own risk.
 
 == 7. Updates and Modifications ==
 
-Modern Logic Tech (MLT™) reserves the right to update, modify, or discontinue the Software at any time without notice.  
+Modern Logic Tech Solutions reserves the right to update, modify, or discontinue the Software at any time without notice.  
 Continued use of the Software after any update constitutes acceptance of the updated terms.
 
 ---
@@ -115,8 +116,8 @@ This EULA shall be governed by and construed in accordance with the laws of Mala
 
 For support or legal inquiries:  
 📧 modernlogic.tech@gmail.com  
-🌐 https://matthewcraft7.gumroad.com  
-💻 GitHub: https://github.com/mattlifetech/MLT-stock-idea-assistant
+🌐 https://mltsolutions.gumroad.com
+💻 GitHub: https://github.com/MLT-solutions/SIA2-Multi
 
 ---
 
@@ -141,13 +142,13 @@ You are solely responsible for compliance with all export regulations.
 == 13. Non-Transferability ==
 
 Your license is personal and non-transferable.  
-You may not assign, transfer, or sublicense this Agreement without prior written consent from Modern Logic Tech (MLT™).
+You may not assign, transfer, or sublicense this Agreement without prior written consent from Modern Logic Tech Solutions.
 
 ---
 
 == 14. Support and Updates ==
 
-Support and updates are provided at the sole discretion of Modern Logic Tech (MLT™) and may be modified or discontinued at any time without obligation.
+Support and updates are provided at the sole discretion of Modern Logic Tech Solutions and may be modified or discontinued at any time without obligation.
 
 Access to future updates or enhancements is not guaranteed under this license.
 

@@ -1,6 +1,6 @@
-SIA - Stock Idea Assistant - Personal License
+SIA 2.0 - Stock Idea Assistant (Multi) - Personal License
 
-Copyright © 2025 Modern Logic Tech (MLT™)
+Copyright © 2025 Modern Logic Tech Solutions (Registration No: 202503109774 (003722143-P))
 
 This license grants a single individual the right to use the SIA - Stock Idea Assistant for personal, non-commercial purposes.
 
@@ -33,4 +33,4 @@ Important Notes:
 Contact:
 For support or inquiries: modernlogic.tech@gmail.com
 
-Thank you for supporting independent software development. Powered by Modern Logic Tech (MLT™).
+Thank you for supporting independent software development. Powered by Modern Logic Tech Solutions (Registration No: 202503109774 (003722143-P)).
