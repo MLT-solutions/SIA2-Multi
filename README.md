@@ -80,7 +80,7 @@ It is a variant of the Stock Idea Assistant (SIA) with support for multi-line pr
 | Resolution Selection                     | ✅                | ✅                  | ✅                     |
 | CFG Scale                                | ✅                | ✅                  | ✅                     |
 | Flexible Folder Mapping                  | ✅                | ✅                  | ✅                     |
-| **Purchase**                 |  🆓 [📥Download](https://github.com/MLT-solutions/MLT-stock-idea-assistant/releases/tag/1.0.0)           |    [🛒 Purchase](https://mltsolutions.gumroad.com/l/qwwvb)              |    [🛒 Purchase](https://mltsolutions.gumroad.com/l/itiph)                  |
+| **Purchase**                 |  🆓 [📥Download](https://github.com/MLT-solutions/SIA2-Multi/releases/tag/2.0.0)           |    [🛒 Purchase](https://mltsolutions.gumroad.com/l/rgfpcu)              |    [🛒 Purchase](https://mltsolutions.gumroad.com/l/hgyjkq)                  |
 
 ✅ All EXE builds are digitally signed with a verified code-signing certificate to ensure authenticity and prevent tampering.
 
@@ -124,14 +124,14 @@ A: SDXL via ComfyUI + optional Ollama LLM locally + WAS nodes
 [PayPal Coffee Support Link](https://www.buymeacoffee.com/mattchoo2)
 
 ## 🚀 Upgrade to PRO (Personal)
-[🛒 Gumroad Link to Purchase](https://matthewcraft7.gumroad.com/l/qwwvb)
+[🛒 Gumroad Link to Purchase](https://matthewcraft7.gumroad.com/l/rgfpcu)
 - Includes  no prompt limit.
 - Self-use.
 - Up to 2 devices.
 
 
 ## 🚀 Upgrade to PRO (Business)
-[🛒 Gumroad Link to Purchase](https://matthewcraft7.gumroad.com/l/itiph)
+[🛒 Gumroad Link to Purchase](https://matthewcraft7.gumroad.com/l/hgyjkq)
 - Includes  no prompt limit.
 - For clients & business use.
 - Up to 3 devices  
